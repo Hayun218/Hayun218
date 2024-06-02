@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=HayunPark&fontColor=ffffff&color=FFA500&animation=fadeIn)
-
+![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=HayunPark&fontColor=cccccc&color=FFA500&animation=fadeIn)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkahsdl)](https://solved.ac/gkahsdl/)
 
