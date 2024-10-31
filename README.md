@@ -3,4 +3,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkahsdl)](https://solved.ac/gkahsdl/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hayun218&layout=compact)](https://github.com/Hayun218/github-readme-stats)
+
+<!--
+마크다운으로 주석 처리
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hayun218&langs_count=8)](https://github.com/Hayun218/github-readme-stats)
+-->
